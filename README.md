@@ -14,6 +14,12 @@ Your poor computer will groan, your wordlist file will bloat into 50 megabytes o
 
 ---
 
+## 🌐 Too Lazy to Install Anything?
+
+No time for deploying to your own machine? Does the terminal scare you? We got you! 😎
+
+Try WordForge online right now, straight from your browser:
+👉 **[Click Here to Guess The Pass! (Live Demo)](https://v0-guessthepass.vercel.app/)** 👈
 ## 🛠️ The Tech Behind the Magic
 
 While WordForge is a powerful generator under the hood, it features a beautiful, easy-to-use web interface built with modern tools:
